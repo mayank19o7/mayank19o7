@@ -11,8 +11,11 @@ With **11+ years of experience** working in IT Company, I build reliable, scalab
 - Linux enthusiast — building custom setups with **Hyprland + dotfiles**
 
 🌱 I’m currently learning **AI, ML and Python** more deeply
+
 💼 I’m working on **Hyprland dotfiles**
+
 🔭 I enjoy creating, experimenting, and having fun while tweaking systems
+
 🧩 **I read code like others read books — and debugging is my puzzle game.**
 
 
