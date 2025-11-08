@@ -38,7 +38,7 @@ With **11+ years of experience** working in IT Company, I build reliable, scalab
 
 | Project | Description | Link |
 |---------|-------------|------|
-| ⭐ **Spring Boot Microservices Camp** | Complete microservices setup: API Gateway, Service Discovery, Config Server, Circuit Breaker, Docker deployment. | 🔗 [link](https://github.com/mayank19o7/spring-boot-camp) |
+| ⭐ **Spring Boot Microservices Camp** | Complete microservices setup: API Gateway, Service Discovery, Config Server, Circuit Breaker, Docker deployment. | 🔗 [Link](https://github.com/mayank19o7/spring-boot-camp) |
 | **Git Branch Cleanup Utility** | Shell script to list and delete Git branches by author — speeds up repo cleanup. | 🔗 [Link](https://github.com/mayank19o7/git-branch-cleanup) |
 
 ---
@@ -68,11 +68,12 @@ With **11+ years of experience** working in IT Company, I build reliable, scalab
 <!-- </p> -->
 ---
 
-### 🌍 Connect with me
+> _"Code is like humor. When you have to explain it, it’s bad." – Cory House_
 
+### 🌍 Connect with me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank1907/)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:mayank.sahu1907@gmail.com)
 
 ---
 
-> _"Code is like humor. When you have to explain it, it’s bad." – Cory House_
+
