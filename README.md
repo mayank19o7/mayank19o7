@@ -5,7 +5,7 @@
 With **11+ years of experience** working in IT Company, I build reliable, scalable backends using:
 
 ### 💼 I work across backend, frontend, automation, and system customization
-- Backend engineering with **Java**, **Spring (Core, Boot, Microservices)**, REST / SOAP **Web Services**.
+- Backend engineering with **Java**, **Spring (Core, Boot, Microservices)**, **Web Services**.
 - Full-stack experience using **React**, **Angular**, **TypeScript**, **JavaScript**, **Node.js**.
 - Database background: **SQL**, **Oracle**, **PostgreSQL**
 - Linux enthusiast — building custom setups with **Hyprland + dotfiles**
