@@ -37,11 +37,12 @@ With **11+ years of experience** working in IT Company, I build reliable, scalab
 
 ---
 
-### 📌 Featured Projects
+### 📌 Featured Projects / Repos
 
-| Project | Description | Link |
+| Project / Repo | Description | Link |
 |---------|-------------|------|
-| ⭐ **Spring Boot Microservices Camp** | Complete microservices setup: API Gateway, Service Discovery, Config Server, Circuit Breaker, Docker deployment. | 🔗 [Link](https://github.com/mayank19o7/spring-boot-camp) |
+| 🖼️ **Wallpaper Gallery** | A minimal, fast, static wallpaper gallery built using HTML, CSS, and JavaScript, hosted on GitHub Pages. |  🔗 [Live Gallery](https://mayank19o7.github.io/wallpapers/) | 
+| ⭐ **Spring Boot Microservices Camp** | Complete microservices learning projects: API Gateway, Service Discovery, Config Server, Circuit Breaker, Docker deployment. | 🔗 [Link](https://github.com/mayank19o7/spring-boot-camp) |
 | **Git Branch Cleanup Utility** | Shell script to list and delete Git branches by author — speeds up repo cleanup. | 🔗 [Link](https://github.com/mayank19o7/git-branch-cleanup) |
 
 ---
